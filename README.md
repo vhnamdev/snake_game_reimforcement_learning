@@ -6,7 +6,7 @@ The snake acts as an agent. It learns how to move toward the food while avoiding
 
 ## Demo
 
-[Watch the Snake RL demo](demo.webm)
+(demo.gif)
 
 ## Reinforcement Learning Structure
 
